@@ -164,7 +164,7 @@ Meu espaço dedicado a estudos e projetos relacionados a **Quality Assurance e S
 
 ˚₊‧꒰ა 🎀 ໒꒱ ‧₊˚
 
-### 💗 código, chá, jogos e muita determinação 💗
+### 💗 código, chá,  jogos e muita determinação 💗
 
 🌷 sempre aprendendo • sempre criando • sempre evoluindo 🌷
 
