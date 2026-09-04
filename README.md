@@ -66,13 +66,15 @@
 
 <div align="center">
 
-<img src="./assets/github-stats.svg" height="170">
+  <img src="./assets/github-stats.svg" height="170" alt="GitHub Stats">
 
-<img src="./assets/top-langs.svg" height="170">
+  <img src="./assets/top-langs.svg" height="170" alt="Linguagens mais usadas">
 
 </div>
 
 <div align="center">
+
+🌸 um commit de cada vez, construindo minha jornada em tecnologia ♡
 
 </div>
 
