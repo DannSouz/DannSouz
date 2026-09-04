@@ -99,6 +99,7 @@
 ## 🎀 Minha trajetória ⋆｡‧˚ʚ♡ɞ˚‧｡⋆
 
 <div align="center">
+  
 ```text
 🧪 Engenharia de Alimentos
         ↓
@@ -108,6 +109,7 @@
         ↓
 🐍 Programação • Desenvolvimento • Tecnologia
 ```
+
 <div align="center">
   
 Minha mudança de área não apaga o que veio antes. 💗
