@@ -1,3 +1,6 @@
+
+<img src="./assets/banner.gif" alt="Banner Danna Souza" width="100%">
+
 <div align="center">
 
 # ₊˚⊹♡ Oi, eu sou a Danna! ♡⊹˚₊
