@@ -61,13 +61,19 @@
 </div>
 
 ---
-## 📊 GitHub Stats ₊˚⊹♡
+
+## 🎀 GitHub Stats ₊˚⊹♡
 
 <div align="center">
 
-![Danna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannSouz&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff8fab&text_color=8a4f6b&bg_color=fff0f6)
+<img src="./assets/github-stats.svg" height="170">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannSouz&layout=compact&hide_border=true&title_color=ff69b4&text_color=8a4f6b&bg_color=fff0f6)
+<img src="./assets/top-langs.svg" height="170">
+
+</div>
+
+<div align="center">
+
 
 </div>
 
