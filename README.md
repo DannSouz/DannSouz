@@ -18,7 +18,7 @@
 
 🧪 Também sou finalista de **Engenharia de Alimentos**, uma parte importante da minha trajetória e que contribuiu muito para desenvolver meu olhar para análise, organização, processos e resolução de problemas.
 
-🎮 Minha relação com tecnologia começou muito antes da faculdade: jogos, computadores e aquela curiosidade de mexer em tudo para entender como funcionava sempre fizeram parte de mim.
+🎮 Minha relação com tecnologia começou muito antes da faculdade: jogos e computadores sempre fizeram parte de mim.
 
 🌷 Hoje estou transformando essa curiosidade em aprendizado de programação, desenvolvimento de software e novas tecnologias.
 
