@@ -66,14 +66,17 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DannSouz&theme=rose_pine&hide_border=true" />
-
-
-<div align="center">
-
   <img
     src="https://streak-stats.demolab.com?user=DannSouz&theme=rose_pine&hide_border=true"
     alt="GitHub Streak"
+    height="180"
+  />
+
+  <br><br>
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DannSouz&theme=rose_pine"
+    alt="Resumo do perfil"
   />
 
   <br><br>
@@ -88,10 +91,14 @@
 <div align="center">
 
 
+</div>
+
+
 ---
 
 ## 🎀 Minha trajetória ⋆｡‧˚ʚ♡ɞ˚‧｡⋆
 
+<div align="center">
 ```text
 🧪 Engenharia de Alimentos
         ↓
@@ -101,7 +108,8 @@
         ↓
 🐍 Programação • Desenvolvimento • Tecnologia
 ```
-
+<div align="center">
+  
 Minha mudança de área não apaga o que veio antes. 💗
 
 Quero carregar comigo tudo o que aprendi na Engenharia de Alimentos e nas minhas experiências profissionais, enquanto construo uma nova trajetória dentro da tecnologia.
