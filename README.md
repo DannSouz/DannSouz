@@ -69,7 +69,24 @@
 <img src="https://streak-stats.demolab.com?user=DannSouz&theme=rose_pine&hide_border=true" />
 
 
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=DannSouz&theme=rose_pine&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+  <br><br>
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DannSouz&theme=github-compact&hide_border=true"
+    alt="Gráfico de atividade"
+  />
+
 </div>
+
+<div align="center">
+
 
 ---
 
