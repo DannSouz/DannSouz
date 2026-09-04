@@ -117,7 +117,7 @@ Meu espaço dedicado a estudos e projetos relacionados a **Quality Assurance e S
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge\&logo=linkedin\&logoColor=white)]((https://www.linkedin.com/in/danna-souza/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/danna-souza/)
 
 </div>
 
