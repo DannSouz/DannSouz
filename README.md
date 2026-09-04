@@ -101,9 +101,7 @@ Meu espaço dedicado a estudos e projetos relacionados a **Quality Assurance e S
 
 🌸 Curiosa por tecnologia desde sempre
 
-🎮 Games fazem parte da minha história com tecnologia
-
-💻 Adoro entender como as coisas funcionam por trás da tela
+🎮 Games fazem parte da minha história
 
 🐍 Atualmente me aventurando cada vez mais no Python
 
@@ -115,23 +113,11 @@ Meu espaço dedicado a estudos e projetos relacionados a **Quality Assurance e S
 
 ---
 
-## 📊 GitHub Stats ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannSouz&show_icons=true&theme=rose_pine&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannSouz&layout=compact&theme=rose_pine&hide_border=true)
-
-</div>
-
----
-
 ## 🌸 Me encontra por aqui ♡
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge\&logo=linkedin\&logoColor=white)]([COLOQUE-SEU-LINK-AQUI](https://www.linkedin.com/in/danna-souza/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge\&logo=linkedin\&logoColor=white)]((https://www.linkedin.com/in/danna-souza/))
 
 </div>
 
