@@ -1,5 +1,5 @@
 
-<img src="./assets/banner.gif" alt="Banner Danna Souza" width="100%">
+<img src="./assets/banner.gif.gif" alt="Banner Danna Souza" width="100%">
 
 <div align="center">
 
