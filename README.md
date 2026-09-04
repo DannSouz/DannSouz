@@ -81,10 +81,10 @@
 
   <br><br>
 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=DannSouz&theme=rose_pine&no-frame=true&no-bg=true"
-    alt="GitHub Trophies"
-  />
+ <img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DannSouz&theme=rose_pine&title_color=ff69b4&text_color=8a4f6b&bg_color=fff0f6&icon_color=ff8fab"
+  alt="GitHub Stats"
+/>
 
 </div>
 
