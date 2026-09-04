@@ -62,19 +62,12 @@
 
 ---
 
-## 🎀 GitHub Stats ₊˚⊹♡
+## 🎀 Minha atividade por aqui ₊˚⊹♡
 
 <div align="center">
 
-  <img src="./assets/github-stats.svg" height="170" alt="GitHub Stats">
+<img src="https://streak-stats.demolab.com?user=DannSouz&theme=rose_pine&hide_border=true" />
 
-  <img src="./assets/top-langs.svg" height="170" alt="Linguagens mais usadas">
-
-</div>
-
-<div align="center">
-
-🌸 um commit de cada vez, construindo minha jornada em tecnologia ♡
 
 </div>
 
