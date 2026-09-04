@@ -119,9 +119,9 @@ Meu espaço dedicado a estudos e projetos relacionados a **Quality Assurance e S
 
 <div align="center">
 
-![Danna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannSouz&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff69b4&icon_color=ff8fab)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannSouz&show_icons=true&theme=rose_pine&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannSouz&layout=compact&theme=rose_pine&hide_border=true&title_color=ff69b4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannSouz&layout=compact&theme=rose_pine&hide_border=true)
 
 </div>
 
@@ -131,7 +131,7 @@ Meu espaço dedicado a estudos e projetos relacionados a **Quality Assurance e S
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge\&logo=linkedin\&logoColor=white)](COLOQUE-SEU-LINK-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge\&logo=linkedin\&logoColor=white)]([COLOQUE-SEU-LINK-AQUI](https://www.linkedin.com/in/danna-souza/))
 
 </div>
 
