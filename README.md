@@ -5,7 +5,7 @@
 
 # ₊˚⊹♡ Oi, eu sou a Danna! ♡⊹˚₊
 
-🎀 **Engenharia de Software • Python • Tecnologia • QA** 🎀
+🎀 **Engenharia de Software • Python • QA** 🎀
 
 🌸 aprendendo, criando e construindo meu cantinho na tecnologia 🌸
 
