@@ -1,16 +1,150 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DannSouz/DannSouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ₊˚⊹♡ Oi, eu sou a Danna! ♡⊹˚₊
 
-Here are some ideas to get you started:
+🎀 **Engenharia de Software • Python • Tecnologia • QA** 🎀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌸 aprendendo, criando e construindo meu cantinho na tecnologia 🌸
+
+⋆｡°✩ 🎮 💻 🐍 🌷 ✩°｡⋆
+
+</div>
+
+---
+
+## 🎀 Sobre mim ˚ʚ♡ɞ˚
+
+💗 Atualmente curso **Engenharia de Software** e estou construindo minha carreira na área de tecnologia.
+
+🧪 Também sou finalista de **Engenharia de Alimentos**, uma parte importante da minha trajetória e que contribuiu muito para desenvolver meu olhar para análise, organização, processos e resolução de problemas.
+
+🎮 Minha relação com tecnologia começou muito antes da faculdade: jogos, computadores e aquela curiosidade de mexer em tudo para entender como funcionava sempre fizeram parte de mim.
+
+🌷 Hoje estou transformando essa curiosidade em aprendizado de programação, desenvolvimento de software e novas tecnologias.
+
+---
+
+## 🌸 Atualmente... ⋆˙⟡♡
+
+🔭 Construindo meu **portfólio de Engenharia de Software**
+
+🌱 Aprendendo **Python, lógica de programação, Git e GitHub**
+
+💻 Fortalecendo minha base em **programação e desenvolvimento de software**
+
+🧪 Também estudando **QA e Software Testing**
+
+🎮 Explorando tecnologia através de projetos, estudos e muita curiosidade
+
+✨ Registrando minha evolução aqui, um commit de cada vez ♡
+
+---
+
+## 💗 Tecnologias que estou aprendendo
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge\&logo=python\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF8FAB?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-DDA0DD?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-FFB6C1?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+</div>
+
+<div align="center">
+
+🌱 essa seção vai crescer junto comigo conforme avanço nos estudos ♡
+
+</div>
+
+---
+
+## 🎀 Minha trajetória ⋆｡‧˚ʚ♡ɞ˚‧｡⋆
+
+```text
+🧪 Engenharia de Alimentos
+        ↓
+🌷 Qualidade • Processos • Análise
+        ↓
+💻 Engenharia de Software
+        ↓
+🐍 Programação • Desenvolvimento • Tecnologia
+```
+
+Minha mudança de área não apaga o que veio antes. 💗
+
+Quero carregar comigo tudo o que aprendi na Engenharia de Alimentos e nas minhas experiências profissionais, enquanto construo uma nova trajetória dentro da tecnologia.
+
+Para mim, essa transição é menos sobre “começar do zero” e mais sobre **somar novas habilidades ao que já construí**. 🌸
+
+---
+
+## 🌷 Projetos & estudos ₊˚⊹♡
+
+### 🐍 Python Learning
+
+Exercícios e desafios desenvolvidos durante meus estudos de Python, principalmente acompanhando o curso do **Curso em Vídeo — Gustavo Guanabara**.
+
+`Python` `Lógica` `Aprendizado`
+
+---
+
+### 🧪 QA Portfolio
+
+Meu espaço dedicado a estudos e projetos relacionados a **Quality Assurance e Software Testing**.
+
+`QA` `Software Testing` `Testes`
+
+---
+
+## 🎮 Um pouquinho mais sobre mim ♡
+
+🌸 Curiosa por tecnologia desde sempre
+
+🎮 Games fazem parte da minha história com tecnologia
+
+💻 Adoro entender como as coisas funcionam por trás da tela
+
+🐍 Atualmente me aventurando cada vez mais no Python
+
+📚 Gosto de aprender colocando a mão na massa
+
+🎀 Tento deixar tudo um pouquinho mais bonito e organizado
+
+✨ Acredito que pequenas evoluções todos os dias constroem grandes mudanças
+
+---
+
+## 📊 GitHub Stats ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
+
+<div align="center">
+
+![Danna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannSouz\&show_icons=true\&theme=rose_pine\&hide_border=true\&title_color=ff69b4\&icon_color=ff8fab)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannSouz\&layout=compact\&theme=rose_pine\&hide_border=true\&title_color=ff69b4)
+
+</div>
+
+---
+
+## 🌸 Me encontra por aqui ♡
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge\&logo=linkedin\&logoColor=white)](COLOQUE-SEU-LINK-AQUI)
+
+</div>
+
+---
+
+<div align="center">
+
+˚₊‧꒰ა 🎀 ໒꒱ ‧₊˚
+
+### 💗 código, café, jogos e muita determinação 💗
+
+🌷 sempre aprendendo • sempre criando • sempre evoluindo 🌷
+
+⋆｡‧˚ʚ♡ɞ˚‧｡⋆
+
+</div>
