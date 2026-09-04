@@ -61,6 +61,17 @@
 </div>
 
 ---
+## 📊 GitHub Stats ₊˚⊹♡
+
+<div align="center">
+
+![Danna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannSouz&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff8fab&text_color=8a4f6b&bg_color=fff0f6)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannSouz&layout=compact&hide_border=true&title_color=ff69b4&text_color=8a4f6b&bg_color=fff0f6)
+
+</div>
+
+---
 
 ## 🎀 Minha trajetória ⋆｡‧˚ʚ♡ɞ˚‧｡⋆
 
