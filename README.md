@@ -119,9 +119,9 @@ Meu espaço dedicado a estudos e projetos relacionados a **Quality Assurance e S
 
 <div align="center">
 
-![Danna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannSouz\&show_icons=true\&theme=rose_pine\&hide_border=true\&title_color=ff69b4\&icon_color=ff8fab)
+![Danna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannSouz&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff69b4&icon_color=ff8fab)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannSouz\&layout=compact\&theme=rose_pine\&hide_border=true\&title_color=ff69b4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannSouz&layout=compact&theme=rose_pine&hide_border=true&title_color=ff69b4)
 
 </div>
 
@@ -141,7 +141,7 @@ Meu espaço dedicado a estudos e projetos relacionados a **Quality Assurance e S
 
 ˚₊‧꒰ა 🎀 ໒꒱ ‧₊˚
 
-### 💗 código, café, jogos e muita determinação 💗
+### 💗 código, chá, jogos e muita determinação 💗
 
 🌷 sempre aprendendo • sempre criando • sempre evoluindo 🌷
 
