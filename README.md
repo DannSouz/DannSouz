@@ -82,23 +82,20 @@
   <br><br>
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DannSouz&theme=github-compact&hide_border=true"
-    alt="Gráfico de atividade"
+    src="https://github-profile-trophy.vercel.app/?username=DannSouz&theme=rose_pine&no-frame=true&no-bg=true"
+    alt="GitHub Trophies"
   />
 
 </div>
 
 <div align="center">
 
-
 </div>
-
 
 ---
 
 ## 🎀 Minha trajetória ⋆｡‧˚ʚ♡ɞ˚‧｡⋆
 
-<div align="center">
   
 ```text
 🧪 Engenharia de Alimentos
@@ -110,7 +107,6 @@
 🐍 Programação • Desenvolvimento • Tecnologia
 ```
 
-<div align="center">
   
 Minha mudança de área não apaga o que veio antes. 💗
 
